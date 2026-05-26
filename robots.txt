@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mazdaparts.com.ua/sitemap.xml
